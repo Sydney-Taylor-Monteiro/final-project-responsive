@@ -6,6 +6,7 @@
 
 body {
   margin: 60px 0;
+  max-width: 800px;
 }
 
 h1,

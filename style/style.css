@@ -9,6 +9,7 @@
 body {
   margin: 100px 0;
   font-family: var(--default-font-family);
+  background: #d7e3fc;
 }
 
 h1,
@@ -126,7 +127,10 @@ p {
 }
 
 .hero {
-  background: #d7e3fc;
+  border: #d7e3fc;
+  border-radius: 4px;
+  box-shadow: var(--box-shadow);
+  padding: 40px 40px;
 }
 
 .hero p {
@@ -145,4 +149,8 @@ p {
   background: var(--primary-color);
   color: white;
   border-radius: 4px;
+}
+
+.contact-icons {
+  position: center;
 }

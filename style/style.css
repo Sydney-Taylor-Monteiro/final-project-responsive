@@ -154,3 +154,7 @@ p {
 .contact-icons {
   position: center;
 }
+
+.contact-emoticons {
+  font-weight: 400;
+}

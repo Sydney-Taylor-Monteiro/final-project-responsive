@@ -96,7 +96,7 @@ h3 {
 }
 
 p {
-  background: var(--secondary-color);
+  background: var(--primary-color);
   border-radius: 4px;
   font-size: 18px;
   font-weight: normal;
